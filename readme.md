@@ -1,3 +1,7 @@
+# DHoroBot (Гороскоп на Сегодня)
+
+![DHoroBot (Гороскоп на Сегодня)](https://repository-images.githubusercontent.com/581960350/91fc0ffb-42ad-41d6-b0ad-c3366bf57695)
+
 # Создайте telegram бота
 
 Простетируйте бота в telegram [t.me/DHoroBot](https://t.me/DHoroBot)
