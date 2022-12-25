@@ -1,0 +1,3 @@
+pip install telebot
+pip install pyTelegramBotApi
+pip install bs4

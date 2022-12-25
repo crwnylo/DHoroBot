@@ -1,0 +1,8 @@
+/subscribers
+/subscribers/*.sub
+config.py
+backup.config.py
+config.backup.py
+test.py
+test-sender.txt
+video.txt
